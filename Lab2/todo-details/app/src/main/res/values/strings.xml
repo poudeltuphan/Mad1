@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">todo-details</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="result">Result</string>
+
+    <string-array name="tasks">
+        <item>Eat2</item>
+        <item>Sleep2</item>
+        <item>Code2</item>
+        <item>Repeat2</item>
+    </string-array>
+
+</resources>
